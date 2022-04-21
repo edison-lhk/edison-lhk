@@ -11,7 +11,8 @@
 ---
 ### :handshake: Let's Connect:
 <div>
-    <a href="https://www.linkedin.com/in/edison-liem-99ba3a235/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" style="padding-right:10px"></a>
+    <a href="mailto:edisonliem417@gmail.com" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" title="Gmail" alt="Gmail" width="40" style="padding-right:20px;"></a> 
+    <a href="https://www.linkedin.com/in/edison-liem-99ba3a235/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" style="padding-right:20px;"></a> 
 <div>
 
 ---
