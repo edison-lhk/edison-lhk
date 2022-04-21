@@ -3,7 +3,7 @@
 - :school: I’m a first-year student at the University of Toronto specializing in Computer Science and minoring in Statistics
 - :rocket:  I'm currently working on [my personal website](https://edison-lhk.github.io/Personal-Website/)
 - :seedling:  I’m currently learning **Front-End Development** & **Data Science**
-- :laptop:  I’m actively seeking co-op and internship opportunities in Software Engineering, Data Science & Full-Stack Development
+- :personal_computer:  I’m actively seeking co-op and internship opportunities in Software Engineering, Data Science & Full-Stack Development
 - :mailbox:  How to reach me: edisonliem417@gmail.com 
 - :zap: Fun fact: I love to play basketball and learn different languages such as Japanese
 
