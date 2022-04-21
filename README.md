@@ -9,10 +9,8 @@
 
 ---
 ### Let's Connect:
-<div>
-    [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" heeight="40" style="padding-right:10px">](https://www.linkedin.com/in/edison-liem-99ba3a235/)
+<div></div>
 
-</div>
 ---
 ### :hammer_and_wrench: Languages and Tools
 <div> 
