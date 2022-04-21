@@ -1,6 +1,6 @@
 ## Hi there, I'm Edison, and welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### About Me:
+### :movie_camera: About Me:
 - :school: I’m a first-year student at the University of Toronto specializing in Computer Science and minoring in Statistics
 - :seedling:  I’m currently learning **Front-End Development** & **Data Science**
 - :rocket:  I'm now in the process of making [my personal website](https://edison-lhk.github.io/Personal-Website/)
@@ -15,7 +15,7 @@
 <div>
 
 ---
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools:
 <div> 
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="padding-right:20px;"></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" style="padding-right:20px;"></a>
