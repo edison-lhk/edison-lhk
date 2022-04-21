@@ -1,5 +1,6 @@
-## Hi there, I'm Edison, and welcome to my Github Profile 👋
+## Hi there, I'm Edison, and welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+### About Me:
 - :school: I’m a first-year student at the University of Toronto specializing in Computer Science and minoring in Statistics
 - :seedling:  I’m currently learning **Front-End Development** & **Data Science**
 - :rocket:  I'm now in the process of making [my personal website](https://edison-lhk.github.io/Personal-Website/)
