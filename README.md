@@ -9,7 +9,7 @@
 
 ---
 ### Let's Connect:
-<div></div>
+[![Linkedin](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/edison-liem-99ba3a235/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools
