@@ -1,5 +1,4 @@
 ## Hi there, I'm Edison, and welcome to my Github Profile 👋
----
 
 - 🏫  I’m a first-year student at the University of Toronto specializing in Computer Science and minoring in Statistics
 - 🌱  I’m currently learning Front-End Development & Data Science
