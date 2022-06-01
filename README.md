@@ -1,4 +1,4 @@
-## Hi there, I'm Edison, and welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+## Hi there, I'm Edison, and welcome to my Github Profile :wave:
 
 ### :movie_camera: About Me:
 - :school: I’m a first-year student at the University of Toronto specializing in Computer Science and minoring in Statistics
