@@ -27,6 +27,7 @@
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" style="float:left;padding-right:10px;"></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" style="float:left;padding-right:10px;"></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" style="float:left;padding-right:10px;"></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" style="float:left;padding-right:10px;"></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" style="float:left;padding-right:10px;"></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" style="float:left;padding-right:10px;"></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" style="float:left;padding-right:10px;"></a>
