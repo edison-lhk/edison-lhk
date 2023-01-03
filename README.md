@@ -12,7 +12,7 @@
 ### :handshake: Let's Connect:
 <div>
     <a href="mailto:edisonliem417@gmail.com" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" title="Gmail" alt="Gmail" width="40" style="float:left;padding-right:10px;"></a> 
-    <a href="https://www.linkedin.com/in/edison-liem-99ba3a235/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="35" style="float:left;padding-right:10px;"></a>
+    <a href="https://www.linkedin.com/in/edison-liem/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="35" style="float:left;padding-right:10px;"></a>
     <a href="https://edison-lhk.github.io/personal-website/" target="_blank"><img src="./personal-website-icon.png" title="Personal Website" alt="My Personal Website" width="35" height="35" style="float:left;padding-right:10px;"></a>
     <a href="https://www.instagram.com/edison_lhk/" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" title="Instagram" alt="Instagram" width="35" style="float:left;padding-right:10px;"></a>  
 <div>
