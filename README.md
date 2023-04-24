@@ -3,7 +3,7 @@
 ### :movie_camera: About Me:
 - :school: I’m a first-year student at the University of Toronto specializing in Computer Science and minoring in Statistics
 - :seedling:  I’m very interested in **backend development**, and currently diving deep in learning different concepts and tools related to it 
-- :rocket:  I'm an incoming Software Engineer Intern at Amelia
+- :rocket:  I'm an incoming Software Engineer Intern at **Amelia**
 - :man_technologist:  I’m actively seeking co-op and internship opportunities in **Software Engineering** & **Full-Stack Development**
 - :mailbox:  How to reach me: edisonliem417@gmail.com 
 - :zap: Fun fact: I love to eat ice cubes
