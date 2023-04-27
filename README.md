@@ -1,12 +1,12 @@
 ## Hi there, I'm Edison, and welcome to my Github Profile :wave:
 
 ### :movie_camera: About Me:
-- :school: I’m a first-year Computer Science student at the University of Toronto
-- :seedling:  I’m very interested in **Backend Development**, and currently diving deep in learning different concepts and tools related to it 
+- :school: I’m a first-year Computer Science Co-op student at the University of Toronto
+- 👨‍💻 I'm incredibly passionate about **Software Engineering** and the endless possibilities that technology provides
+- ⚙️  I’m very interested in **Backend Development**, and currently diving deep in learning different concepts and tools related to it 
 - :rocket:  I'm an incoming Software Engineer Intern at **Amelia**
-- :man_technologist:  I’m actively seeking Fall 2023 **Software Engineering** Internship opportunities
+- :zap:  I’m actively seeking Fall 2023 **Software Engineering** Internship opportunities
 - :mailbox:  How to reach me: edisonliem417@gmail.com 
-- :zap: Fun fact: I love to eat ice cubes
 
 ---
 ### :handshake: Let's Connect:
