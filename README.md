@@ -39,3 +39,6 @@
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
 </div>
 
+---
+![Edison Liem's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edison-lhk&layout=compact)
