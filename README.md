@@ -40,5 +40,6 @@
 </div>
 
 ---
-![Edison Liem's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edison-lhk&layout=compact)
+### ⭐ Stats:
+<img style="" src="https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent"/>
+<img style="height: 195px; width: 45%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=edison-lhk&layout=compact"/>
