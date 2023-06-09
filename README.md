@@ -41,5 +41,5 @@
 
 ---
 ### ⭐ Stats:
-<img style="" src="https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent"/>
-<img style="height: 195px; width: 42%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=edison-lhk&layout=compact&theme=transparent"/>
+<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent"/>
+<img style="height: 190px; width: 45%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=edison-lhk&layout=compact&theme=transparent"/>
