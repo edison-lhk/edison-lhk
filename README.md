@@ -42,4 +42,4 @@
 ---
 ### ⭐ Stats:
 <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent"/>
-<img style="height: 160px; width: 20%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=edison-lhk&layout=compact&theme=transparent"/>
+<img style="height: 160px; width: 30%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=edison-lhk&layout=compact&theme=transparent"/>
