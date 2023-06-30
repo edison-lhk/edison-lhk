@@ -1,7 +1,7 @@
 ## Hi there, I'm Edison, and welcome to my Github Profile :wave:
 
 ### :movie_camera: About Me:
-- :school: I’m a second-year Co-op Computer Science Specialist & Statistics Major student at the University of Toronto
+- :school: I’m a second-year Co-op Computer Science Specialist student at the University of Toronto
 - 👨‍💻 I'm incredibly passionate about **Software Engineering** and the endless possibilities that technology provides
 - ⚙️  I’m very interested in **Backend Development**, and currently diving deep in learning different concepts and tools related to it 
 - :rocket:  I'm currently a Software Engineer Intern at **Amelia**, and an incoming Software Engineer Intern at **RBC Capital Markets**
