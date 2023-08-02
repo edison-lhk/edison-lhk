@@ -8,7 +8,6 @@
 - :zap:  I’m actively seeking Summer 2024 **Software Engineering** Internship opportunities
 - :mailbox:  How to reach me: edisonliem417@gmail.com 
 
----
 ### :handshake: Let's Connect:
 <div>
     <a href="mailto:edisonliem417@gmail.com" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" title="Gmail" alt="Gmail" width="40" style="float:left;padding-right:10px;"></a> 
@@ -17,7 +16,6 @@
     <a href="https://www.instagram.com/edison_lhk/" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" title="Instagram" alt="Instagram" width="35" style="float:left;padding-right:10px;"></a>  
 <div>
 
----
 ### :hammer_and_wrench: Languages and Tools:
 <div> 
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"></a>
@@ -41,7 +39,6 @@
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
 </div>
 
----
 ### ⭐ Stats:
 <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent"/>
 <img style="height: 160px; width: 40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=edison-lhk&layout=compact&theme=transparent"/>
