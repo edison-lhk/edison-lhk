@@ -1,11 +1,11 @@
 ### Hi there :wave:, I'm Edison!
 
 #### :movie_camera: About Me:
-- :school: I’m a second-year co-op computer science specialist student at the University of Toronto
-- 👨‍💻 I'm incredibly passionate about **Software Engineering** and the endless possibilities that technology provides
-- ⚙️  I’m very interested in **Backend Development**, and currently diving deep in learning different concepts and tools related to it 
-- :rocket:  I'm currently a Software Engineer Intern at **Amelia**, and an incoming Software Engineer Intern at **RBC Capital Markets**
-- :zap:  I’m actively seeking Summer 2024 **Software Engineering** Internship opportunities
+- :school: I’m a second-year student studying computer science under the software engineering stream at University of Toronto
+- 👨‍💻 I'm passionate about software engineering and the endless possibilities that technology provides
+- ⚙️  I’m very interested in backend development, and currently diving deep in learning different concepts and tools related to it 
+- :rocket:  I'm currently a software engineer intern at **Amelia**, and an incoming software engineer intern at **RBC Capital Markets**
+- :zap:  I’m actively seeking Summer 2024 software engineering internship opportunities
 - :mailbox:  How to reach me: edisonliem417@gmail.com 
 
 #### :handshake: Let's Connect:
