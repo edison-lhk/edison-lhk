@@ -1,4 +1,4 @@
-## Hi there, I'm Edison, and welcome to my Github Profile :wave:
+### Hi there, I'm Edison, and welcome to my Github Profile :wave:
 
 ### :movie_camera: About Me:
 - :school: I’m a second-year co-op computer science specialist student at the University of Toronto
