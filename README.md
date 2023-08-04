@@ -1,6 +1,6 @@
 ### Hi there, I'm Edison, and welcome to my Github Profile :wave:
 
-### :movie_camera: About Me:
+#### :movie_camera: About Me:
 - :school: I’m a second-year co-op computer science specialist student at the University of Toronto
 - 👨‍💻 I'm incredibly passionate about **Software Engineering** and the endless possibilities that technology provides
 - ⚙️  I’m very interested in **Backend Development**, and currently diving deep in learning different concepts and tools related to it 
@@ -8,7 +8,7 @@
 - :zap:  I’m actively seeking Summer 2024 **Software Engineering** Internship opportunities
 - :mailbox:  How to reach me: edisonliem417@gmail.com 
 
-### :handshake: Let's Connect:
+#### :handshake: Let's Connect:
 <div>
     <a href="mailto:edisonliem417@gmail.com" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" title="Gmail" alt="Gmail" width="40" style="float:left;padding-right:10px;"></a> 
     <a href="https://www.linkedin.com/in/edison-liem/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="35" style="float:left;padding-right:10px;"></a>
@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/edison_lhk/" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" title="Instagram" alt="Instagram" width="35" style="float:left;padding-right:10px;"></a>  
 <div>
 
-### :hammer_and_wrench: Languages and Tools:
+#### :hammer_and_wrench: Languages and Tools:
 <div> 
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"></a>
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"></a>
@@ -39,6 +39,6 @@
     <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
 </div>
 
-### ⭐ Stats:
+#### ⭐ Stats:
 <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=edison-lhk&show_icons=true&theme=transparent"/>
 <img style="height: 160px; width: 40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=edison-lhk&layout=compact&theme=transparent"/>
