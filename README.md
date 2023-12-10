@@ -4,7 +4,7 @@
 - :school: I’m a second-year student studying computer science under the software engineering stream at University of Toronto
 - 👨‍💻 I'm passionate about software engineering and the endless possibilities that technology provides
 - ⚙️  I’m very interested in backend development, and currently diving deep in learning different concepts and tools related to it 
-- :rocket:  I'm currently a software engineer intern at **RBC Capital Markets**, and previously at **Amelia**
+- :rocket:  I'm an incoming software engineer intern at **HubSpot**, and previously at **RBC Capital Markets** & **Amelia**
 - :zap:  I’m actively seeking Fall 2024 software engineering internship opportunities
 - 📬 How to reach me: edisonliem417@gmail.com 
 
