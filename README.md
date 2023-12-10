@@ -8,7 +8,7 @@
 - :zap:  I’m actively seeking Fall 2024 software engineering internship opportunities
 - 📬 How to reach me: edisonliem417@gmail.com 
 
-#### :handshake: Let's Connect:
+#### 🤝 Let's Connect:
 <div>
     <a href="mailto:edisonliem417@gmail.com" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" title="Gmail" alt="Gmail" width="40" style="float:left;padding-right:10px;"></a> 
     <a href="https://www.linkedin.com/in/edison-liem/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="35" style="float:left;padding-right:10px;"></a>
@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/edison_lhk/" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" title="Instagram" alt="Instagram" width="35" style="float:left;padding-right:10px;"></a>  
 <div>
 
-#### :hammer_and_wrench: Languages and Tools:
+#### 🛠️ Languages and Tools:
 <div> 
     <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"></a>
