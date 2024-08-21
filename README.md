@@ -1,7 +1,7 @@
 ### Hi there :wave:, I'm Edison!
 
 #### 🎥 About Me:
-- :school: I’m a second-year student studying computer science under the software engineering stream at University of Toronto
+- :school: I’m a third-year student studying computer science under the software engineering stream at University of Toronto
 - 👨‍💻 I'm passionate about software engineering and the endless possibilities that technology provides
 - ⚙️  I’m very interested in backend development, and currently diving deep in learning different concepts and tools related to it 
 - :rocket:  I'm an incoming software engineer intern at StackAdapt & HubSpot for Fall 2024 & Summer 2025, and previously at HubSpot, RBC CM & Amelia
