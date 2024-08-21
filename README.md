@@ -26,6 +26,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"></a>
     <a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"></a>
     <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"></a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"></a>
     <a href="https://react.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"></a>
     <a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="36" height="40"></a>
@@ -34,11 +35,12 @@
     <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="37" height="37"></a>
     <a href="https://www.dropwizard.io/en/stable/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dropwizard/dropwizard-original.svg" title="Dropwizard" alt="Dropwizard" width="37" height="37"></a>
+    <a href="https://rubyonrails.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"></a>
     <a href="https://graphql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"></a>
-    <a href="https://socket.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="37" height="37"></a>
     <a href="https://kafka.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"></a>
     <a href="https://spark.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"></a>
     <a href="https://hadoop.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Apache Hadoop" alt="Apache Hadoop" width="40" height="40"></a>
+    <a href="https://socket.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="37" height="37"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"></a>
