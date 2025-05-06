@@ -40,6 +40,7 @@
     <a href="https://kafka.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"></a>
     <a href="https://spark.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"></a>
     <a href="https://hadoop.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Apache Hadoop" alt="Apache Hadoop" width="40" height="40"></a>
+    <a href="https://www.elastic.co/elasticsearch" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"></a>
     <a href="https://socket.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="37" height="37"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"></a>
